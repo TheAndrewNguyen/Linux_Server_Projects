@@ -1,0 +1,67 @@
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Player 1 disconnected, game aborted
+java.lang.NullPointerException
+	at Main.main(Main.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:404)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:179)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:119)
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Player 1 disconnected, game aborted
+java.lang.NullPointerException
+	at Main.main(Main.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:404)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:179)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:119)
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Game finished
+Results:
+Player 2 wins with 68% health remaining
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Game finished
+Results:
+Player 2 wins with 56% health remaining
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Player 2 disconnected, game aborted
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Player 2 disconnected, game aborted
+
+Waiting for players to connect
+Player 1 connected
+Player 2 connected
+Game initialized
+Player 1 disconnected, game aborted
+
+Waiting for players to connect
+Player 1 connected
